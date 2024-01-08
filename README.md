@@ -5,6 +5,7 @@ The following neural network units are used:
 - **LSTM**
 - **GRU**
 
+\
 **SELECT FIGURES**
 <img src="Figures/all_data.jpg">
 <img src="Figures/loss_vs_epoch_GRU.jpg">

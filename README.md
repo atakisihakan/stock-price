@@ -1,3 +1,5 @@
+# PREDICT NEXT-DAY STOCK PRICE
+
 Predict next-day Amazon stock price based on the historical stock price data.
 
 The following neural network units are used:
@@ -6,7 +8,7 @@ The following neural network units are used:
 - **GRU**
 
 \
-**SELECT FIGURES**
+**HIGHLIGTHS**
 <img src="Figures/all_data.jpg">
 <img src="Figures/loss_vs_epoch_GRU.jpg">
 <img src="Figures/actual_vs_prediction_GRU.jpg">

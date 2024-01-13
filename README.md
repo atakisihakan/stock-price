@@ -1,4 +1,4 @@
-# PREDICT NEXT-DAY STOCK PRICE
+# PREDICT STOCK PRICE
 
 Predict next-day Amazon stock price based on the historical stock price data.
 
